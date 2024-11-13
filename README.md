@@ -26,7 +26,7 @@ Este projeto implementa um sistema de autenticação seguro usando JSON Web Toke
 ### 2. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/auth_jwt.git
+git clone https://github.com/grsveloso/auth_jwt.git
 cd auth_jwt
 ```
 
